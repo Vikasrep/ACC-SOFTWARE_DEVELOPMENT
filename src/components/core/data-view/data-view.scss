@@ -1,0 +1,23 @@
+div[data-test-id='data-view-toolbar'] {
+	.button-link {
+		box-shadow: none !important;
+
+		&:focus {
+			outline: none !important;
+			outline-offset: none !important;
+		}
+	}
+}
+
+div[data-test-id^='data-view'] {
+	input[type='number']::-webkit-inner-spin-button,
+	input[type='number']::-webkit-outer-spin-button {
+		appearance: none;
+		margin: 0;
+	}
+
+	.form-label {
+		font-size: 0.8rem;
+		font-weight: bold;
+	}
+}

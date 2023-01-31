@@ -1,0 +1,5 @@
+export const REDUX_ACTION_FETCHED = 'FETCHED';
+export const REDUX_ACTION_FETCHING = 'FETCHING';
+export const REDUX_ACTION_FAILURE = 'FAILURE';
+export const REDUX_ACTION_SAVING = 'SAVING';
+export const REDUX_ACTION_SAVED = 'SAVED';

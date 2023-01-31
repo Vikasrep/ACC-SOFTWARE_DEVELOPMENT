@@ -1,0 +1,1762 @@
+{
+	"global:welcome": {
+		"translation": "Welcome",
+		"description": "noun"
+	},
+	"global:welcome-name": {
+		"translation": "Welcome, <b>{{name}}</b>",
+		"description": "noun"
+	},
+	"global:email-address": {
+		"translation": "Email Address",
+		"description": "noun"
+	},
+	"global:invalid-email": {
+		"translation": "Please enter a valid email.",
+		"description": "error if email is not in correct format"
+	},
+	"global:password": {
+		"translation": "Password",
+		"description": "noun"
+	},
+	"global:invalid-password": {
+		"translation": "Please enter a valid password.",
+		"description": "error if there is no valid password entered"
+	},
+	"global:forgot-password": {
+		"translation": "Forgot Password?",
+		"description": "has the user forgotten their password"
+	},
+	"global:log-in": {
+		"translation": "Log In",
+		"description": "log in to software"
+	},
+	"global:rights-reserved": {
+		"translation": "All rights reserved.",
+		"description": "copywriter reserves all of rights for own use"
+	},
+	"global:privacy-notice": {
+		"translation": "Privacy Notice",
+		"description": "link to pdf that explains how company processes data"
+	},
+	"global:terms-of-use": {
+		"translation": "Terms of Use",
+		"description": "link to pdf agreement for user to agree and abide by to use software"
+	},
+	"global:email-reset": {
+		"translation": "Enter your email and a reset link will be sent to you.",
+		"description": "for user to input their email for reset link"
+	},
+	"global:send": {
+		"translation": "Send",
+		"description": "verb"
+	},
+	"global:back-to-login": {
+		"translation": "Back to login",
+		"description": "button to go back to login"
+	},
+	"global:tango59": {
+		"translation": "tango59",
+		"description": "software's name"
+	},
+	"global:dashboard": {
+		"translation": "Dashboard",
+		"description": "noun"
+	},
+	"global:announcements": {
+		"translation": "Announcements",
+		"description": "noun"
+	},
+	"global:tables": {
+		"translation": "Tables",
+		"description": "noun"
+	},
+	"global:companies": {
+		"translation": "Companies",
+		"description": "noun"
+	},
+	"global:contacts": {
+		"translation": "Contacts",
+		"description": "noun"
+	},
+	"global:claims": {
+		"translation": "Claims",
+		"description": "noun"
+	},
+	"global:customers": {
+		"translation": "Customers",
+		"description": "noun"
+	},
+	"global:providers": {
+		"translation": "Providers",
+		"description": "noun"
+	},
+	"global:travelers": {
+		"translation": "Travelers",
+		"description": "noun"
+	},
+	"global:service-lines": {
+		"translation": "Service Lines",
+		"description": "noun"
+	},
+	"global:tars": {
+		"translation": "TAR",
+		"description": "noun"
+	},
+	"global:triptime-login": {
+		"translation": "TripTime Login",
+		"description": "noun"
+	},
+	"global:pre-certifications": {
+		"translation": "Pre-Certifications",
+		"description": "noun"
+	},
+	"global:travel-service-line": {
+		"translation": "Travel Service Line",
+		"description": "noun"
+	},
+	"global:human-resources": {
+		"translation": "Human Resources",
+		"description": "noun"
+	},
+	"global:it": {
+		"translation": "IT",
+		"description": "abbreviation for information technology - noun"
+	},
+	"global:quick-links": {
+		"translation": "Quick Links",
+		"description": "noun"
+	},
+	"global:executive-summary": {
+		"translation": "Executive Summary",
+		"description": "noun"
+	},
+	"global:pcu-website": {
+		"translation": "PCU Website",
+		"description": "noun"
+	},
+	"global:pcu-email": {
+		"translation": "PCU Email",
+		"description": "noun"
+	},
+	"global:maps-resource-portal": {
+		"translation": "MAPs Resource Portal",
+		"description": "noun"
+	},
+	"global:purecloud": {
+		"translation": "Purecloud",
+		"description": "noun"
+	},
+	"global:paycor-timeclock": {
+		"translation": "Executive Summary",
+		"description": "noun"
+	},
+	"global:pcu-safety-&-security-policy": {
+		"translation": "PCU Safety & Security Policy",
+		"description": "noun"
+	},
+	"global:social-media": {
+		"translation": "Social Media",
+		"description": "noun"
+	},
+	"global:twitter-triptime": {
+		"translation": "Twitter | Triptime",
+		"description": "noun"
+	},
+	"global:facebook-pcu": {
+		"translation": "Facebook | Point Comfort",
+		"description": "noun"
+	},
+	"global:facebook-triptime": {
+		"translation": "Facebook | Triptime",
+		"description": "noun"
+	},
+	"global:instagram-triptime": {
+		"translation": "Instagram | Triptime",
+		"description": "noun"
+	},
+	"global:pinterest-triptime": {
+		"translation": "Pinterest | Triptime",
+		"description": "noun"
+	},
+	"global:linkedin-pcu": {
+		"translation": "LinkedIn | Point Comfort",
+		"description": "noun"
+	},
+	"global:linkedin-triptime": {
+		"translation": "LinkedIn | Triptime",
+		"description": "noun"
+	},
+	"global:youtube-triptime": {
+		"translation": "Youtube | Triptime",
+		"description": "noun"
+	},
+	"global:settings": {
+		"translation": "Settings",
+		"description": "noun"
+	},
+	"global:logout": {
+		"translation": "Logout",
+		"description": "verb"
+	},
+	"global:username": {
+		"translation": "Username",
+		"description": "noun"
+	},
+	"global:invalid-username": {
+		"translation": "Please enter a valid username.",
+		"description": "error if there is no valid username entered"
+	},
+	"global:return-to-login": {
+		"translation": "Return to login",
+		"description": "return to login page"
+	},
+	"global:edit": {
+		"translation": "Edit",
+		"description": "verb"
+	},
+	"global:view": {
+		"translation": "View",
+		"description": "verb"
+	},
+	"global:total": {
+		"translation": "Total",
+		"description": "label"
+	},
+	"global:no-record-found": {
+		"translation": "No Record Found",
+		"description": "the record did not exists"
+	},
+	"global:reset-password": {
+		"translation": "Reset Password",
+		"description": "change user's password"
+	},
+	"global:new-password": {
+		"translation": "New Password",
+		"description": "enter a new password"
+	},
+	"global:confirm-new-password": {
+		"translation": "Confirm New Password",
+		"description": "confirm your new password"
+	},
+	"global:password-requirement-lowercase": {
+		"translation": "A lowercase letter",
+		"description": "new password needs a lowercase letter"
+	},
+	"global:password-requirement-uppercase": {
+		"translation": "A uppercase letter",
+		"description": "new password needs a uppercase letter"
+	},
+	"global:password-requirement-charlength": {
+		"translation": "At least {{x}} characters long",
+		"description": "new password needs at least 8 characters"
+	},
+	"global:password-requirement-specialchar": {
+		"translation": "A special character (.@!?, etc)",
+		"description": "new password needs a special character (.@!?, etc)"
+	},
+	"global:passwords-do-not-match": {
+		"translation": "Passwords do not match.",
+		"description": "both passwords are not the same"
+	},
+	"global:new-password-confirm-password-do-not-match": {
+		"translation": "New Password and Confirm New Password do not match.",
+		"description": "both passwords are not the same"
+	},
+	"global:password-requirement-number": {
+		"translation": "A number (0-9)",
+		"description": "new password needs a number"
+	},
+	"global:forgot-password-submit-info": {
+		"translation": "Your password reset has been sent to your email successfully. Please try again if you have not received an email or check your spam folder.",
+		"description": "notification that an email was sent to reset password"
+	},
+	"global:reset-password-submit-info": {
+		"translation": "Your password has been reset. Click <a>here</a> to login.",
+		"description": "notification that password has been reset"
+	},
+	"global:account": {
+		"translation": "Account",
+		"description": "noun"
+	},
+	"global:name": {
+		"translation": "Name",
+		"description": "noun"
+	},
+	"global:change-password": {
+		"translation": "Change Password",
+		"description": "label to change password"
+	},
+	"global:required": {
+		"translation": "Required",
+		"description": "adjective"
+	},
+	"global:save": {
+		"translation": "Save",
+		"description": "verb"
+	},
+	"global:current-password": {
+		"translation": "Current Password",
+		"description": "user current password"
+	},
+	"global:first": {
+		"translation": "First",
+		"description": "number"
+	},
+	"global:previous": {
+		"translation": "Previous",
+		"description": "noun"
+	},
+	"global:next": {
+		"translation": "Next",
+		"description": "noun"
+	},
+	"global:last": {
+		"translation": "Last",
+		"description": "noun"
+	},
+	"global:search": {
+		"translation": "Search",
+		"description": "verb"
+	},
+	"global:all": {
+		"translation": "All",
+		"description": "adverb"
+	},
+	"global:no-records": {
+		"translation": "No Records",
+		"description": "no data records"
+	},
+	"global:new": {
+		"translation": "New",
+		"description": "adverb"
+	},
+	"global:list-all": {
+		"translation": "List All",
+		"description": "list all data"
+	},
+	"global:return": {
+		"translation": "Return",
+		"description": "verb"
+	},
+	"global:cancel": {
+		"translation": "Cancel",
+		"description": "verb"
+	},
+	"global:current-self-audits": {
+		"translation": "Current Self Audits",
+		"description": "current self audits in quickbase"
+	},
+	"global:redirect-to-qb": {
+		"translation": "You will be redirected to QuickBase",
+		"description": "this will redirect you to quickbase"
+	},
+	"global:add": {
+		"translation": "Add",
+		"description": "verb"
+	},
+	"global:all-fields-have-been-added": {
+		"translation": "All fields have been added",
+		"description": "verb"
+	},
+	"global:select-a-field-to-add": {
+		"translation": "Select a field to add",
+		"description": "verb"
+	},
+	"global:assigned-to": {
+		"translation": "Assigned To",
+		"description": "table title"
+	},
+	"global:save-close": {
+		"translation": "Save & Close",
+		"description": "save data and navigate to table list"
+	},
+	"global:save-previous": {
+		"translation": "Save & Previous",
+		"description": "save data and navigate to previous data"
+	},
+	"global:save-next": {
+		"translation": "Save & Next",
+		"description": "save data and navigate to next data"
+	},
+	"global:table-fields": {
+		"translation": "Table Fields",
+		"description": "plural"
+	},
+	"global:basics": {
+		"translation": "Basics",
+		"description": "plural"
+	},
+	"global:description": {
+		"translation": "Description",
+		"description": "noun"
+	},
+	"global:type": {
+		"translation": "Type",
+		"description": "noun"
+	},
+	"global:table": {
+		"translation": "Table",
+		"description": "noun"
+	},
+	"global:columns-to-display": {
+		"translation": "Columns to display",
+		"description": "list of columns to display"
+	},
+	"global:remove": {
+		"translation": "Remove",
+		"description": "verb"
+	},
+	"global:top": {
+		"translation": "Top",
+		"description": "noun"
+	},
+	"global:bottom": {
+		"translation": "Bottom",
+		"description": "noun"
+	},
+	"global:up": {
+		"translation": "Up",
+		"description": "verb"
+	},
+	"global:down": {
+		"translation": "Down",
+		"description": "verb"
+	},
+	"global:reports-and-charts-panel": {
+		"translation": "Reports & Charts panel",
+		"description": "title"
+	},
+	"global:show-for-this-report": {
+		"translation": "Show for this report",
+		"description": "title"
+	},
+	"global:group-for-this-report": {
+		"translation": "Group for this report",
+		"description": "title"
+	},
+	"global:common": {
+		"translation": "Common",
+		"description": "noun"
+	},
+	"global:ascending": {
+		"translation": "Ascending",
+		"description": "noun"
+	},
+	"global:descending": {
+		"translation": "Descending",
+		"description": "noun"
+	},
+	"global:sort-and-group": {
+		"translation": "Sort & group",
+		"description": "verbs"
+	},
+	"global:sorting-and-grouping": {
+		"translation": "Sorting & Grouping",
+		"description": "verbs"
+	},
+	"global:select-an-option": {
+		"translation": "Select an option",
+		"description": "label"
+	},
+	"global:select-a-direction": {
+		"translation": "Select a direction",
+		"description": "label"
+	},
+	"global:select-a-field": {
+		"translation": "Select a field",
+		"description": "label"
+	},
+	"global:everyone": {
+		"translation": "Everyone",
+		"description": "noun"
+	},
+	"global:forms": {
+		"translation": "Forms",
+		"description": "noun"
+	},
+	"global:notes": {
+		"translation": "Notes",
+		"description": "noun"
+	},
+	"global:documents": {
+		"translation": "Documents",
+		"description": "noun"
+	},
+	"global:error": {
+		"translation": "Error",
+		"description": "noun"
+	},
+	"global:errors": {
+		"translation": "Errors",
+		"description": "noun"
+	},
+	"global:required-fields-are-required": {
+		"translation": "Required fields are required",
+		"description": "error message"
+	},
+	"global:none-of-the-above": {
+		"translation": "None of the above",
+		"description": "select this option if no other options is what you want"
+	},
+	"global:invalid-dates": {
+		"translation": "Invalid dates",
+		"description": "error message"
+	},
+	"global:date-is-invalid": {
+		"translation": "Date is invalid",
+		"description": "error message"
+	},
+	"global:invalid-timestamps": {
+		"translation": "Invalid timestamps",
+		"description": "error message"
+	},
+	"global:timestamp-is-invalid": {
+		"translation": "Timestamp is invalid",
+		"description": "error message"
+	},
+	"global:roles": {
+		"translation": "Roles",
+		"description": "roles for each user"
+	},
+	"global:reports-and-charts": {
+		"translation": "Reports & Charts",
+		"description": "dropdown for reports and charts"
+	},
+	"global:reports": {
+		"translation": "Reports & Charts",
+		"description": "reports and charts page"
+	},
+	"global:search-reports-and-charts": {
+		"translation": "Search reports & charts",
+		"description": "search for reports and charts"
+	},
+	"global:common-reports": {
+		"translation": "Common Reports",
+		"description": "noun"
+	},
+	"global:previously-viewed": {
+		"translation": "Previously Viewed",
+		"description": "reports that user has viewed"
+	},
+	"global:view-edit-history": {
+		"translation": "View Edit History",
+		"description": "viewing a record's edit history"
+	},
+	"global:edit-history-of": {
+		"translation": "Edit History of",
+		"description": "viewing a certain record's edit history"
+	},
+	"global:user-role-permissions": {
+		"translation": "Table Access",
+		"description": "table permissions for each table"
+	},
+	"global:relationships": {
+		"translation": "Table-To-Table Relationships",
+		"description": "table to table relationships"
+	},
+	"global:fields": {
+		"translation": "Fields",
+		"description": "noun"
+	},
+	"global:show-dropdown": {
+		"translation": "Show",
+		"description": "verb"
+	},
+	"global:all-fields": {
+		"translation": "All Fields",
+		"description": "adverb"
+	},
+	"global:set-key": {
+		"translation": "Set Key",
+		"description": "setting the key"
+	},
+	"global:users": {
+		"translation": "Users",
+		"description": "noun"
+	},
+	"global:payments": {
+		"translation": "Payments",
+		"description": "noun"
+	},
+	"global:address": {
+		"translation": "Address",
+		"description": "noun"
+	},
+	"global:bordereaux": {
+		"translation": "Bordereaux",
+		"description": "noun"
+	},
+	"global:application": {
+		"translation": "Application",
+		"description": "noun"
+	},
+	"global:overview": {
+		"translation": "Overview",
+		"description": "noun"
+	},
+	"global:no-internet": {
+		"translation": "No Internet",
+		"description": "no internet connection"
+	},
+	"global:check-internet": {
+		"translation": "Please Check Internet Connection",
+		"description": "need to check internet"
+	},
+	"global:create-new-role": {
+		"translation": "Create a New Role",
+		"description": "creating a new role"
+	},
+	"global:role-name": {
+		"translation": "Role Name",
+		"description": "a role's name"
+	},
+	"global:ok": {
+		"translation": "OK",
+		"description": "exclamation"
+	},
+	"global:enter-role": {
+		"translation": "Please enter a role name",
+		"description": "user needs to enter a role name"
+	},
+	"global:report-or-chart": {
+		"translation": "Report or Chart",
+		"description": "create a new report or chart"
+	},
+	"global:set-password": {
+		"translation": "Set Password",
+		"description": "Set new user's password"
+	},
+	"global:set-password-submit-info": {
+		"translation": "Your password has been set. Click <a>here</a> to login.",
+		"description": "notification that password has been set for user to login now"
+	},
+	"global:create": {
+		"translation": "Create",
+		"description": "verb"
+	},
+	"global:new-table-option": {
+		"translation": "Show your data in a spreadsheet-style report with rows and columns.",
+		"description": "table option description when choosing an option from new report or chart option"
+	},
+	"global:sort-or-group": {
+		"translation": "Sort or group on other fields",
+		"description": "if user wants to sort or group fields"
+	},
+	"global:custom-columns": {
+		"translation": "Custom columns",
+		"description": "user can choose custom columns"
+	},
+	"global:table-report": {
+		"translation": "Table Report",
+		"description": "table report"
+	},
+	"global:available": {
+		"translation": "Available",
+		"description": "adjective"
+	},
+	"global:search-columns": {
+		"translation": "Search columns",
+		"description": "search through columns"
+	},
+	"global:report-columns": {
+		"translation": "Report columns",
+		"description": "a report's columns"
+	},
+	"global:then": {
+		"translation": "then",
+		"description": "adverb"
+	},
+	"global:add-new-user": {
+		"translation": "Add New User",
+		"description": "add a new user"
+	},
+	"global:select-role": {
+		"translation": "Select a role",
+		"description": "a role needs to get selected"
+	},
+	"global:enter-email-group": {
+		"translation": "Enter e-mail address or group name",
+		"description": "user needs to enter a email or group name"
+	},
+	"global:role-not-found": {
+		"translation": "Role Not Found",
+		"description": "role not found"
+	},
+	"global:add-multiple-users": {
+		"translation": "Add users in another role",
+		"description": "option to add another user"
+	},
+	"global:email-sent-to-user": {
+		"translation": "An email notification will be sent to the User.",
+		"description": "email will be sent to user"
+	},
+	"global:choose-role": {
+		"translation": "Please choose a role name.",
+		"description": "user needs to choose a role name"
+	},
+	"global:create-new-form": {
+		"translation": "Create New Form",
+		"description": "Create New Form"
+	},
+	"global:form-name": {
+		"translation": "Form Name",
+		"description": "Form Name"
+	},
+	"global:apply-changes": {
+		"translation": "Apply Changes",
+		"description": "Apply Changes"
+	},
+	"global:same-row": {
+		"translation": "Same row",
+		"description": "Same row"
+	},
+	"global:form-element": {
+		"translation": "Form element",
+		"description": "Form element"
+	},
+	"global:import": {
+		"translation": "Import/Export/Copy",
+		"description": "importing or exporting csv"
+	},
+	"global:import-export": {
+		"translation": "Import/Export",
+		"description": "importing or exporting"
+	},
+	"global:choose-action": {
+		"translation": "Choose Action",
+		"description": "choose an action"
+	},
+	"global:import-from-file-table": {
+		"translation": "Import into a table from a <b>file</b>",
+		"description": "import from file"
+	},
+	"global:select-table": {
+		"translation": "Select Table",
+		"description": "select a table"
+	},
+	"global:select-column": {
+		"translation": "Select a column",
+		"description": "select a column"
+	},
+	"global:choose-table": {
+		"translation": "Choose a table...",
+		"description": "choose table"
+	},
+	"global:select-merge-field": {
+		"translation": "Select Merge Field",
+		"description": "select a field"
+	},
+	"global:select-field": {
+		"translation": "Select field",
+		"description": "select a field"
+	},
+	"global:merge-field-note": {
+		"translation": "The merge field is a field in your table you can use to match imported data to records already in the table. If you're not merging data, you don't need to make a selection in this field.",
+		"description": "merge field notice"
+	},
+	"global:choose-file": {
+		"translation": "Choose File",
+		"description": "choose a file"
+	},
+	"global:choose-file-note": {
+		"translation": "Click the <b>Browse</b> button to browse for and select a file. You can import files in the following formats:",
+		"description": "instructions for files"
+	},
+	"global:csv-note": {
+		"translation": "• CSV - Text file with comma-separated values.",
+		"description": "csv description"
+	},
+	"global:send-file-note": {
+		"translation": "Click the <b>Import From File</b> button to send the file to Tango59.",
+		"description": "click to import file"
+	},
+	"global:import-from-file": {
+		"translation": "Import From File",
+		"description": "import from file"
+	},
+	"global:search-and-select": {
+		"translation": "Search and select",
+		"description": "search and select option"
+	},
+	"global:step-2": {
+		"translation": "Step 2",
+		"description": "step 2 for importing"
+	},
+	"global:import-button": {
+		"translation": "Import",
+		"description": "verb"
+	},
+	"global:import-step2-preview": {
+		"translation": "Use the preview below to check that your data will be imported correctly.",
+		"description": "import step 2 instruction"
+	},
+	"global:import-step2-assign": {
+		"translation": "If you assign data to the merge key field, {{mergeField}}, make sure each imported row has a unique value, and proceed carefully: you might update existing records.",
+		"description": "import step 2 instruction"
+	},
+	"global:import-step2-proceed": {
+		"translation": "To proceed, click Import or Import (with Update).",
+		"description": "import step 2 instruction"
+	},
+	"global:first-row-field-names": {
+		"translation": "Tango59 can't tell whether or not the first row of the data you've specified is a list of field names. Please check the checkbox below if it is.",
+		"description": "import step 2 instruction"
+	},
+	"global:first-row-field-names-box": {
+		"translation": "First Row is List of Field Names",
+		"description": "import step 2 instruction for checkbox"
+	},
+	"global:do-not-import": {
+		"translation": "Do Not Import",
+		"description": "file import table"
+	},
+	"global:to-existing-field": {
+		"translation": "To Existing Field",
+		"description": "file import table"
+	},
+	"global:create-new-field": {
+		"translation": "Create New Field",
+		"description": "file import table"
+	},
+	"global:row": {
+		"translation": "Row",
+		"description": "noun"
+	},
+	"global:field-type": {
+		"translation": "FIELD TYPE",
+		"description": "noun"
+	},
+	"global:field-labels": {
+		"translation": "FIELD LABELS",
+		"description": "noun"
+	},
+	"global:account-info": {
+		"translation": "Account Information",
+		"description": "user's account information"
+	},
+	"global:update-account-info": {
+		"translation": "Update your account information",
+		"description": "update user's account info"
+	},
+	"global:update-password": {
+		"translation": "Update your password",
+		"description": "update user's password"
+	},
+	"global:access": {
+		"translation": "Access",
+		"description": "noun"
+	},
+	"global:ttprecert": {
+		"translation": "TTPreCert",
+		"description": "table"
+	},
+	"global:ach": {
+		"translation": "ACH",
+		"description": "table"
+	},
+	"global:pay_periods": {
+		"translation": "Pay Periods",
+		"description": "table"
+	},
+	"global:data_entry": {
+		"translation": "Data Entry",
+		"description": "table"
+	},
+	"global:trips": {
+		"translation": "Trips",
+		"description": "table"
+	},
+	"global:triptimelogin_tmp": {
+		"translation": "TripTimeLogin_tmp",
+		"description": "table"
+	},
+	"global:notification_messages": {
+		"translation": "Notification Messages",
+		"description": "table"
+	},
+	"global:orr_daily_history": {
+		"translation": "Orr Daily History",
+		"description": "table"
+	},
+	"global:email_settings": {
+		"translation": "Email Settings",
+		"description": "table"
+	},
+	"global:complaint_resolution": {
+		"translation": "Complaint Resolution",
+		"description": "table"
+	},
+	"global:version_releases": {
+		"translation": "Version Releases",
+		"description": "table"
+	},
+	"global:ttpasswordforgot": {
+		"translation": "TTPasswordForgot",
+		"description": "table"
+	},
+	"global:events": {
+		"translation": "Events",
+		"description": "table"
+	},
+	"global:uac_repricing_information": {
+		"translation": "UAC Repricing Information",
+		"description": "table"
+	},
+	"global:general_accident_questionaire": {
+		"translation": "General Accident Questionaire",
+		"description": "table"
+	},
+	"global:ttcommissions": {
+		"translation": "TTCommissions",
+		"description": "table"
+	},
+	"global:uac_daily_active_enrollees_count": {
+		"translation": "UAC Daily Active Enrollees Count",
+		"description": "table"
+	},
+	"global:countries": {
+		"translation": "Countries",
+		"description": "table"
+	},
+	"global:regions": {
+		"translation": "Regions",
+		"description": "table"
+	},
+	"global:tokens": {
+		"translation": "Tokens",
+		"description": "table"
+	},
+	"global:provider_search_content": {
+		"translation": "Provider Search Content",
+		"description": "table"
+	},
+	"global:activities": {
+		"translation": "Activities",
+		"description": "table"
+	},
+	"global:employees": {
+		"translation": "Employees",
+		"description": "table"
+	},
+	"global:images": {
+		"translation": "Images",
+		"description": "table"
+	},
+	"global:departments": {
+		"translation": "Departments",
+		"description": "table"
+	},
+	"global:onboarding": {
+		"translation": "Onboarding",
+		"description": "table"
+	},
+	"global:transactions": {
+		"translation": "Transactions",
+		"description": "table"
+	},
+	"global:credentialing": {
+		"translation": "Credentialing",
+		"description": "table"
+	},
+	"global:benefits": {
+		"translation": "Benefits",
+		"description": "table"
+	},
+	"global:refunds": {
+		"translation": "Refunds",
+		"description": "table"
+	},
+	"global:policies": {
+		"translation": "Policies",
+		"description": "table"
+	},
+	"global:authorizations": {
+		"translation": "Authorizations",
+		"description": "table"
+	},
+	"global:passwords": {
+		"translation": "Passwords",
+		"description": "table"
+	},
+	"global:dates": {
+		"translation": "Dates",
+		"description": "table"
+	},
+	"global:w9": {
+		"translation": "W9",
+		"description": "table"
+	},
+	"global:telemedicines": {
+		"translation": "Telemedicines",
+		"description": "table"
+	},
+	"global:pharmacys": {
+		"translation": "Pharmacys",
+		"description": "table"
+	},
+	"global:repricers": {
+		"translation": "Repricers",
+		"description": "table"
+	},
+	"global:access-needed": {
+		"translation": "Access Needed",
+		"description": "access is needed"
+	},
+	"global:no-permission": {
+		"translation": "You don't have permission to access that page.",
+		"description": "user doesnt have access to access page or table"
+	},
+	"global:ask-app-manager": {
+		"translation": "For help, ask the app manager to check your permissions.",
+		"description": "table"
+	},
+	"global:contact-app-manager": {
+		"translation": "Contact App Manager",
+		"description": "contact app manager"
+	},
+	"global:signed-in-email": {
+		"translation": "(You are currently signed in as <b>{{email}}</b>)",
+		"description": "user is currently signed in as the email provided"
+	},
+	"global:form-success": {
+		"translation": "Form created successfully.",
+		"description": "new form was successfully created"
+	},
+	"global:form-failure": {
+		"translation": "Form has not been created. Please try again.",
+		"description": "new form creation failed"
+	},
+	"global:form-created": {
+		"translation": "Form Created",
+		"description": "form created title"
+	},
+	"global:label": {
+		"translation": "Label",
+		"description": "noun"
+	},
+	"global:must-be-filled": {
+		"translation": "Must be filled in",
+		"description": "has to be filled in"
+	},
+	"global:unique": {
+		"translation": "Unique",
+		"description": "adjective"
+	},
+	"global:must-be-unique": {
+		"translation": "Must be unique",
+		"description": "has to be unique"
+	},
+	"global:default-value": {
+		"translation": "Default value",
+		"description": "default value"
+	},
+	"global:sample-data": {
+		"translation": "Sample Data",
+		"description": "some sample data"
+	},
+	"global:show": {
+		"translation": "Show",
+		"description": "verb"
+	},
+	"global:display": {
+		"translation": "Display",
+		"description": "how the field is displayed"
+	},
+	"global:number-of-lines": {
+		"translation": "Number of lines",
+		"description": "number of lines"
+	},
+	"global:max-characters": {
+		"translation": "Max characters",
+		"description": "number of max characters"
+	},
+	"global:value-display": {
+		"translation": "Value display",
+		"description": "how to display the value"
+	},
+	"global:display-bold": {
+		"translation": "Display in bold",
+		"description": "display in bold font"
+	},
+	"global:display-no-wrap": {
+		"translation": "Display without wrapping",
+		"description": "no wrapping to value"
+	},
+	"global:display-bold-note": {
+		"translation": "Applies to table and timeline reports",
+		"description": "Applies to table and timeline reports"
+	},
+	"global:display-no-wrap-note": {
+		"translation": "Applies to table, timeline, and grid edit reports",
+		"description": "Applies to table, timeline, and grid edit reports"
+	},
+	"global:checked": {
+		"translation": "Checked",
+		"description": "checked in checkbox"
+	},
+	"global:totals": {
+		"translation": "Totals",
+		"description": "noun"
+	},
+	"global:totals-option": {
+		"translation": "Show a 'totals' row in reports",
+		"description": "totals option"
+	},
+	"global:checkbox-field-options": {
+		"translation": "Checkbox field options",
+		"description": "checkbox options"
+	},
+	"global:checkbox-display": {
+		"translation": "Show value as Yes or No in reports",
+		"description": "checkbox display option"
+	},
+	"global:change-type": {
+		"translation": "Change Type",
+		"description": "change the type"
+	},
+	"global:my-account": {
+		"translation": "My Account",
+		"description": "user's account"
+	},
+	"global:advanced": {
+		"translation": "Advanced",
+		"description": "adjective"
+	},
+	"global:permissions": {
+		"translation": "Permissions",
+		"description": "noun"
+	},
+	"global:restrict-access": {
+		"translation": "Restrict access by role",
+		"description": "restrict user access"
+	},
+	"global:searchable": {
+		"translation": "Searchable",
+		"description": "adjective"
+	},
+	"global:searchable-option": {
+		"translation": "Include this field when searching/filtering this table",
+		"description": "include field when searching"
+	},
+	"global:reportable": {
+		"translation": "Reportable",
+		"description": "adjective"
+	},
+	"global:reportable-new-reports": {
+		"translation": "Add this field to all new reports",
+		"description": "reportable option 1"
+	},
+	"global:reportable-reports": {
+		"translation": "The field may be used in reports",
+		"description": "reportable option 2"
+	},
+	"global:add-new-fields": {
+		"translation": "Add New Fields",
+		"description": "add new fields"
+	},
+	"global:field-label": {
+		"translation": "Field Label",
+		"description": "noun"
+	},
+	"global:select-type": {
+		"translation": "Select a type",
+		"description": "select a field type"
+	},
+	"global:delete": {
+		"translation": "Delete",
+		"description": "verb"
+	},
+	"global:multiple-choice-options": {
+		"translation": "Text - Multiple Choice field options",
+		"description": "field options for that "
+	},
+	"global:input-type": {
+		"translation": "Input Type",
+		"description": "input type"
+	},
+	"global:allow-new-choices": {
+		"translation": "Allow users to create new choices",
+		"description": "check if users can create new choices"
+	},
+	"global:display-choices-here": {
+		"translation": "Display choices in the order shown here",
+		"description": "display choices like on here"
+	},
+	"global:display-choices-alph": {
+		"translation": "Display choices in alphabetical order",
+		"description": "display choices in alphabetical"
+	},
+	"global:log-entries": {
+		"translation": "Log entries",
+		"description": "log entries"
+	},
+	"global:log-edits": {
+		"translation": "Log the edits to this field, and show them on forms",
+		"description": "log edits"
+	},
+	"global:log-edits-note": {
+		"translation": "Useful for revision tracking, comments, or notes",
+		"description": "useful for the following"
+	},
+	"global:auto-fill": {
+		"translation": "Auto-fill",
+		"description": "verb"
+	},
+	"global:auto-fill-option": {
+		"translation": "Copy the value when using 'Copy this Claim' to add a new Claim",
+		"description": "copy value"
+	},
+	"global:shared-values": {
+		"translation": "Shared values",
+		"description": "noun"
+	},
+	"global:shared-values-option": {
+		"translation": "Values from this field may be a source for dropdown lists in other apps",
+		"description": "option for shared values"
+	},
+	"global:snapshot": {
+		"translation": "Snapshot",
+		"description": "noun"
+	},
+	"global:snapshot-option": {
+		"translation": "Get this field's value from a lookup field and don't allow the value to change",
+		"description": "option for snapshot"
+	},
+	"global:field-help": {
+		"translation": "Field help text",
+		"description": "helper text"
+	},
+	"global:field-help-note": {
+		"translation": "Text to display on the 'i' icon next to the field",
+		"description": "note for field help"
+	},
+	"global:select-shared-field": {
+		"translation": "Select shared field",
+		"description": "select a shared field"
+	},
+	"global:link-text": {
+		"translation": "Link text",
+		"description": "noun"
+	},
+	"global:link-text-note": {
+		"translation": "Leave empty to use the URL as the link text",
+		"description": "link text note"
+	},
+	"global:options": {
+		"translation": "Options",
+		"description": "noun"
+	},
+	"global:open-target": {
+		"translation": "Open Target",
+		"description": "noun"
+	},
+	"global:width-of-box": {
+		"translation": "Width of input box",
+		"description": "width of the textbox"
+	},
+	"global:today": {
+		"translation": "Today",
+		"description": "the day of today"
+	},
+	"global:date-field-options": {
+		"translation": "Date field options",
+		"description": "date options"
+	},
+	"global:sort-order": {
+		"translation": "Default sort order",
+		"description": "sorting order"
+	},
+	"global:format": {
+		"translation": "Format",
+		"description": "noun"
+	},
+	"global:totals-and-averages": {
+		"translation": "Totals and averages",
+		"description": "noun"
+	},
+	"global:totals-option-1": {
+		"translation": "Display a total of this field in reports",
+		"description": "noun"
+	},
+	"global:totals-option-2": {
+		"translation": "Display an average of this field in reports",
+		"description": "noun"
+	},
+	"global:formula": {
+		"translation": "Formula",
+		"description": "noun"
+	},
+	"global:duration-field-options": {
+		"translation": "Formula - Duration field options",
+		"description": "noun"
+	},
+	"global:override-sub-field": {
+		"translation": "Override sub-field access",
+		"description": "Override sub-field access"
+	},
+	"global:override-sub-field-option": {
+		"translation": "Use the access permissions above even if they are less restrictive than those of the sub-fields",
+		"description": "use access permissions from above"
+	},
+	"global:override-sub-field-note": {
+		"translation": "Sub-fields are the fields used to calculate this field's value",
+		"description": "sub-field note"
+	},
+	"global:decimal-places": {
+		"translation": "Decimal places",
+		"description": "noun"
+	},
+	"global:decimal-places-note": {
+		"translation": "Leave blank for floating point",
+		"description": "leave blank"
+	},
+	"global:address-subfields": {
+		"translation": "Address subfields",
+		"description": "address subfields"
+	},
+	"global:address-field-options": {
+		"translation": "Address field options",
+		"description": "address field options"
+	},
+	"global:states": {
+		"translation": "States",
+		"description": "noun"
+	},
+	"global:map-type": {
+		"translation": "Default map type",
+		"description": "noun"
+	},
+	"global:map-type-note": {
+		"translation": "Applies to forms",
+		"description": "noun"
+	},
+	"global:currency-field-options": {
+		"translation": "Currency field options",
+		"description": "noun"
+	},
+	"global:units-description": {
+		"translation": "Units description",
+		"description": "noun"
+	},
+	"global:units-description-note": {
+		"translation": "Describes the values in this field. Text is appended to the field name",
+		"description": "units description note"
+	},
+	"global:blank": {
+		"translation": "Blank",
+		"description": "adjective"
+	},
+	"global:blank-option": {
+		"translation": "Treat blank values as '0' in calculations",
+		"description": "blank values are 0"
+	},
+	"global:display-format": {
+		"translation": "Display format",
+		"description": "how the field is displayed"
+	},
+	"global:separators": {
+		"translation": "Separators",
+		"description": "noun"
+	},
+	"global:display-as": {
+		"translation": "Display as",
+		"description": "display as"
+	},
+	"global:symbol": {
+		"translation": "Symbol",
+		"description": "noun"
+	},
+	"global:position": {
+		"translation": "Position",
+		"description": "noun"
+	},
+	"global:lookup-field-options": {
+		"translation": "Lookup field options",
+		"description": "noun"
+	},
+	"global:reference-field": {
+		"translation": "Reference field",
+		"description": "noun"
+	},
+	"global:in-this-table": {
+		"translation": "(in this table)",
+		"description": "noun"
+	},
+	"global:value-field": {
+		"translation": "Value field",
+		"description": "noun"
+	},
+	"global:in-the-foreign-table": {
+		"translation": "(in the foreign table)",
+		"description": "noun"
+	},
+	"global:lookup-options": {
+		"translation": "Lookup options",
+		"description": "noun"
+	},
+	"global:lookup-options-option": {
+		"translation": "Display as a link to the related record",
+		"description": "noun"
+	},
+	"global:report-link-field-options": {
+		"translation": "Report Link field options",
+		"description": "noun"
+	},
+	"global:field-relationship": {
+		"translation": "Field relationship",
+		"description": "noun"
+	},
+	"global:value-matching": {
+		"translation": "Value matching",
+		"description": "noun"
+	},
+	"global:value-matching-option": {
+		"translation": "Only include values if they match exactly in both fields",
+		"description": "only include values if they match exactly in both fields"
+	},
+	"global:link-behavior": {
+		"translation": "Link behavior",
+		"description": "noun"
+	},
+	"global:link-behavior-option": {
+		"translation": "Open link in a new browser window",
+		"description": "open link in new window"
+	},
+	"global:timestamp-field-options": {
+		"translation": "Date / Time field options",
+		"description": "timestamp field options"
+	},
+	"global:numeric-field-options": {
+		"translation": "Numeric field options",
+		"description": "float field options"
+	},
+	"global:display-as-link": {
+		"translation": "Display as a link to the detail records",
+		"description": "value display option"
+	},
+	"global:summary-field-options": {
+		"translation": "Summary field options",
+		"description": "summary field options"
+	},
+	"global:field-to-summarize": {
+		"translation": "Field to summarize",
+		"description": "Field to summarize"
+	},
+	"global:function": {
+		"translation": "Function",
+		"description": "noun"
+	},
+	"global:drilldown-behavior": {
+		"translation": "Drilldown behavior",
+		"description": "noun"
+	},
+	"global:drilldown-behavior-note": {
+		"translation": "Defines what report will be shown when you click the summary link",
+		"description": "helper text under dropdown"
+	},
+	"global:choose-field-from-table": {
+		"translation": "Choose a field from the '' table",
+		"description": "helper text under dropdown"
+	},
+	"global:create-new-table": {
+		"translation": "Create a New Table",
+		"description": "create new table"
+	},
+	"global:table-name": {
+		"translation": "Table Name",
+		"description": "table name"
+	},
+	"global:default-domain": {
+		"translation": "Default domain",
+		"description": "default email domain"
+	},
+	"global:sort-by-domain": {
+		"translation": "Sort by domain name",
+		"description": "sort by domain name"
+	},
+	"global:email-all": {
+		"translation": "Email all",
+		"description": "Email all"
+	},
+	"global:email-all-choice": {
+		"translation": "Display an icon in the totals row to email everyone in reports",
+		"description": "email all checkbox choice"
+	},
+	"global:email-field-options": {
+		"translation": "Email field options",
+		"description": "email field options"
+	},
+	"global:extensions": {
+		"translation": "Extensions",
+		"description": "noun"
+	},
+	"global:international": {
+		"translation": "International",
+		"description": "adjective"
+	},
+	"global:phone-includes-extension": {
+		"translation": "Phone number may include an extension",
+		"description": "phone number may include an extension"
+	},
+	"global:phone-is-international": {
+		"translation": "Phone numbers should be in E.164 standard international format",
+		"description": "phone numbers should be in E.164 standard international format"
+	},
+	"global:phone-field-options": {
+		"translation": "Phone field options",
+		"description": "phone field options"
+	},
+	"global:default-country": {
+		"translation": "Default country",
+		"description": "default country"
+	},
+	"global:default-country-note": {
+		"translation": "Initial country selected in forms",
+		"description": "Initial country selected in forms"
+	},
+	"global:check-existing-entries": {
+		"translation": "Check existing entries for duplicate values.",
+		"description": "second checkbox in unique section"
+	},
+	"global:text-field-options": {
+		"translation": "Text field options",
+		"description": "Text field options"
+	},
+	"global:change-the-field-type": {
+		"translation": "Change the type of field",
+		"description": "change field type"
+	},
+	"global:caution": {
+		"translation": "Caution",
+		"description": "verb"
+	},
+	"global:field-caution-1": {
+		"translation": "Changing a field type converts all the data in the field to fit the new field type. If the data cannot be converted, it is lost. To prevent the loss of data, copy the field that you want to change, and make changes to the copy first.",
+		"description": "field caution note first part"
+	},
+	"global:field-caution-2": {
+		"translation": "Even if data is not lost, changing the field type may cause problems if the field is used elsewhere (such as a formula). If you are unsure where this field is used, check the field usage.",
+		"description": "field caution note second part"
+	},
+	"global:delete-field-confirmation": {
+		"translation": "Are you sure you want to delete the <b>{{field}}</b> field?",
+		"description": "confirm delete"
+	},
+	"global:delete-field-confirmation-note": {
+		"translation": "This will also permanently delete all data in the field and invalidate any references shown in Field Usage.",
+		"description": "confirm delete note"
+	},
+	"global:delete-field": {
+		"translation": "Delete field?",
+		"description": "if user wants to delete field"
+	},
+	"global:user-login": {
+		"translation": "User Login",
+		"description": "table"
+	},
+	"global:ttplans": {
+		"translation": "TTPlans",
+		"description": "table"
+	},
+	"global:age-groups": {
+		"translation": "Age Groups",
+		"description": "table"
+	},
+	"global:reason-codes": {
+		"translation": "Reason Codes",
+		"description": "table"
+	},
+	"global:change-field-type": {
+		"translation": "Change Field Type",
+		"description": "table"
+	},
+	"global:multi-line-options": {
+		"translation": "Text - Multi-line field options",
+		"description": "multi line field options"
+	},
+	"global:advanced-settings": {
+		"translation": "Advanced Settings",
+		"description": "advanced settings for table"
+	},
+	"global:table-record-names": {
+		"translation": "Table and Record Names",
+		"description": "table and record names"
+	},
+	"global:records-in-this-table": {
+		"translation": "Records in this table are called",
+		"description": "table and record names"
+	},
+	"global:single-record-called": {
+		"translation": "A single record is called",
+		"description": "table and record names"
+	},
+	"global:identifying-records": {
+		"translation": "Identifying Records",
+		"description": "identifying records"
+	},
+	"global:default-record-picker": {
+		"translation": "Default record picker",
+		"description": "default record picker"
+	},
+	"global:default-record-picker-note": {
+		"translation": "The record picker displays field values that help users select a record. Choose up to three fields to display in your default record picker.",
+		"description": "default record picker helper text"
+	},
+	"global:24-hour-clock": {
+		"translation": "24-hour clock",
+		"description": "24 hour clock"
+	},
+	"global:predecessor-field-options": {
+		"translation": "Predecessor field options",
+		"description": "Predecessor field options"
+	},
+	"global:start-date-field": {
+		"translation": "Start date field",
+		"description": "Start date field"
+	},
+	"global:end-date-field": {
+		"translation": "End date field",
+		"description": "End date field"
+	},
+	"global:multi-select-text-options": {
+		"translation": "Multi-select Text field options",
+		"description": "Multi-select Text field options"
+	},
+	"global:file-link-text-note": {
+		"translation": "Leave empty to use the name of the attachment as the link text",
+		"description": "note under link text for file"
+	},
+	"global:show-images-forms": {
+		"translation": "Show .jpg, .png and .gif files as images in forms",
+		"description": "Show .jpg, .png and .gif files as images in forms"
+	},
+	"global:file-field-options": {
+		"translation": "File Attachment field options",
+		"description": "File Attachment field options"
+	},
+	"global:file-link-behavior": {
+		"translation": "Use a new browser window for file attachments that can be opened in the browser",
+		"description": "link behavior option for file"
+	},
+	"global:allow-open-access": {
+		"translation": "Allow open access",
+		"description": "Allow open access"
+	},
+	"global:allow-open-access-option": {
+		"translation": "Allow access to this file attachment from a Tango link without signing in",
+		"description": "allow open access option"
+	},
+	"global:revisions": {
+		"translation": "Revisions",
+		"description": "noun"
+	},
+	"global:revisions-check-option": {
+		"translation": "Allow users to make older versions the current version",
+		"description": "noun"
+	},
+	"global:keep-all-revisions": {
+		"translation": "Keep all revisions",
+		"description": "keep all revisions"
+	},
+	"global:keep-the-last": {
+		"translation": "Keep the last",
+		"description": "keep the last"
+	},
+	"global:revisions-radio-note": {
+		"translation": "Decreasing this number will delete older revisions in this field for all records that have more than the specified number of revisions",
+		"description": "keep the last note"
+	},
+	"global:icalendar-field-options": {
+		"translation": "iCalendar field options",
+		"description": "iCalendar field options"
+	},
+	"global:field-mapping": {
+		"translation": "Field mapping",
+		"description": "field mapping"
+	},
+	"global:this-ical-field": {
+		"translation": "This iCal field",
+		"description": "iCal field"
+	},
+	"global:maps-to-tango-field": {
+		"translation": "Maps to this Tango field",
+		"description": "maps to this tango field"
+	},
+	"global:subject": {
+		"translation": "Subject",
+		"description": "noun"
+	},
+	"global:location": {
+		"translation": "Location",
+		"description": "noun"
+	},
+	"global:starting-time": {
+		"translation": "Starting time",
+		"description": "the starting time"
+	},
+	"global:end-time": {
+		"translation": "End time",
+		"description": "end time"
+	},
+	"global:required-fields": {
+		"translation": "Required fields",
+		"description": "required fields"
+	},
+	"global:percent-field-options": {
+		"translation": "Percent field options",
+		"description": "percent field options"
+	},
+	"global:rating-field-options": {
+		"translation": "Rating field options",
+		"description": "rating field options"
+	},
+	"global:vcard-field-options": {
+		"translation": "vCard field options",
+		"description": "vcard field options"
+	},
+	"global:this-vcard-field": {
+		"translation": "This vCard field",
+		"description": "this vcard field"
+	},
+	"global:list-user-field-options": {
+		"translation": "List - User field options",
+		"description": "list-user field options"
+	},
+	"global:choices": {
+		"translation": "Choices",
+		"description": "noun"
+	},
+	"global:email": {
+		"translation": "Email",
+		"description": "noun"
+	},
+	"global:formula-field-options": {
+		"translation": "Formula field options",
+		"description": "noun"
+	},
+	"global:edit-form": {
+		"translation": "Edit Form",
+		"description": "edit form"
+	},
+	"global:session-out": {
+		"translation": "Session Time Out",
+		"description": "You are being timed out due to inactivity. Please choose to stay signed in or to log off."
+	},
+	"global:log-off": {
+		"translation": "Log off",
+		"description": "Log off"
+	},
+	"global:stay-logged-in": {
+		"translation": "Stay Logged In",
+		"description": "Stay Logged In"
+	},
+	"global:export-from-file-table": {
+		"translation": "Export from a table to a <b>file</b>",
+		"description": "Export from table"
+	},
+	"global:export-from-file": {
+		"translation": "Download",
+		"description": "Download"
+	}
+}

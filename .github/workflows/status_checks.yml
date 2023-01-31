@@ -1,0 +1,39 @@
+# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
+# More GitHub Actions for Azure: https://github.com/Azure/actions
+
+name: Status check
+
+on:
+  push:
+    branches:
+      - 'PCU-*'
+      - 'release-development-to-staging'
+      - 'release-staging-to-main'
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Node.js version
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+
+      - name: Set up variables
+        uses: microsoft/variable-substitution@v1
+        with:
+          files: '.env-example.json'
+        env:
+          API_URL: ${{ secrets.PROCUCTION_API_URL }}
+          BASE_URL: ${{ secrets.PROCUCTION_BASE_URL }}
+          CDN_URL: ${{ secrets.PROCUCTION_CDN_URL }}
+
+      - name: Install, eslint, and build
+        run: |
+          npm install yarn
+          yarn install
+          yarn husky
+          yarn build:production

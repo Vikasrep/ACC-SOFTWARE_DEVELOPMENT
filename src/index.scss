@@ -1,0 +1,95 @@
+@import 'https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap';
+@import '~bootstrap/scss/bootstrap';
+@import 'scss/index';
+
+:root {
+	// ==================================================
+	// color
+	// ==================================================
+	--tango-color-dark-green: #55622b;
+	--tango-color-light-green: #8e9e60;
+	--tango-color-lighter-green: #aabf69;
+	--tango-color-green-hover: #aabf698a;
+	--tango-color-pink: #eb6952;
+	--tango-color-light-pink: #f8a289;
+	--tango-color-white-pink: #fef1ed;
+	--tango-color-error: #f00f00;
+	--tango-color-success: #008000;
+	--tango-color-black: #252525;
+	--tango-color-gray: #595959;
+	--tango-color-light-gray: #c4c4c4;
+	--tango-color-light-gray-input: #e9ecef;
+	--tango-color-lighter-gray: #f5f6f8;
+	--tango-color-white: #fff;
+	--tango-color-blue-dark: #232859;
+
+	// ==================================================
+	// shadow
+	// ==================================================
+	--tango-box-shadow: 2px 2px 6px 2px #b9bfab;
+	--tango-navigation: 2px 4px 7px rgba(158 158 158 / 25%);
+
+	// ==================================================
+	// border
+	// ==================================================
+	--tango-border-width: 2px;
+	--tango-border-solid: solid;
+	--tango-border-color: rgb(0 0 0 / 30%);
+	--tango-border: var(--tango-border-width) var(--tango-border-solid) var(--tango-border-color);
+
+	// ==================================================
+	// navigation
+	// ==================================================
+	--tango-navigation-width: 250px;
+	--tango-navigation-header-height: 50px;
+	--tango-navigation-menu-item-height: 40px;
+	--tango-navigation-menu-sub-item-height: 50px;
+
+	// ==================================================
+	// page
+	// ==================================================
+	--tango-page-header-height: 50px;
+	--tango-page-padding: 16px;
+
+	// ==================================================
+	// data-table
+	// ==================================================
+	--tango-data-table-toolbar-height: 50px;
+	--tango-data-table-details-height: 50px;
+	--tango-data-table-pagination-height: 50px;
+
+	// ==================================================
+	// data-view
+	// ==================================================
+	--tango-data-view-toolbar-height: 50px;
+
+	// ==================================================
+	// Position
+	// ==================================================
+	--tango-position-relative: relative;
+	--tango-position-absolute: absolute;
+	--tango-position-fixed: fixed;
+
+	// ==================================================
+	// Button
+	// ==================================================
+	--tango-button-bg: #aabf69;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: Poppins, sans-serif;
+	color: var(--tango-color-black);
+
+	// overflow: hidden;
+
+	> #app {
+		height: 100vh;
+
+		// width: 100vw;
+		// overflow: hidden;
+	}
+}

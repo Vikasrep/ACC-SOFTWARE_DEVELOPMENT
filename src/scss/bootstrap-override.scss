@@ -1,0 +1,43 @@
+.container,
+.container-fluid,
+.row {
+	padding: 0;
+}
+
+.form-label {
+	margin-bottom: 0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.dropdown-toggle::after {
+	vertical-align: middle;
+}
+
+[role='tooltip'] {
+	z-index: 99999;
+}
+
+.card-header {
+	background-color: var(--tango-color-white);
+}
+
+.form-check-input:checked {
+	background-color: var(--tango-color-light-pink);
+	border-color: var(--tango-color-light-pink);
+}
+
+.nav-link {
+	color: var(--tango-color-light-pink);
+
+	&:hover {
+		color: var(--tango-color-light-pink);
+	}
+}
+
+.btn-primary:disabled,
+.btn-primary.disabled {
+	background-color: var(--tango-color-lighter-green);
+	border-color: var(--tango-color-lighter-green);
+}
